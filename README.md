@@ -16,22 +16,24 @@ Samuel Tang - https://github.com/stango1234556
 
 ## Stakeholders
 
-Declan Skelly, Sam Engleman 
+Evan Wang
+
 Pros: 
-1) Easy to plans routes 
-2) Visual maps
-3) Convenience for tickets
-4) Other travel options 
+1) conveniently records progress at all times
+2) tracks numerous types of progress (calories, steps, etc.)
+3) integratabtle with smartwatches or other devices
+4) offers a variety of workouts
 
 Cons: 
-1) Cluttered Screen
-2) Confusing Icons
-3) Hierarchy of Choices (other options for trips are not readily available)
-4) Lack of offline functionality 
+1) limited customization
+2) lack of personalization, may not account for height, body type, etc.
+3) cluttered screen, too much time is put into using the app and takes time away from exercising
+4) features may be unaccessible offline, such as demonstration videos/workout tutorials
 
 ## Product Vision Statement
 
-To make a subway app that is less cluttered and easy for any user to understand. 
+To make a workout app that tracks progress, offers exercise routines, and adapts to the user’s fitness level
+if there's no objections, i can push this into the project
 
 ## User Requirements
 
