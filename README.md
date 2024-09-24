@@ -31,12 +31,11 @@ To make a subway app that is less cluttered and easy for any user to understand.
 
 ## User Requirements
 
-1) As a traveler I want to be able to quickly plan my trip 
-2) As a tourist I want the best recommended routes 
-3) As a worker I want to be updated quickly about problems with my usual routes 
-4) As a daily user I want to be able to save my normal routes 
-5) As a commuter I want to be able to easily select other options when my train is down
-6) 
+1) As a gym goer, I want to create personalized workouts so that I can get exercises fit for me.
+2) As a runner, I want to track my steps so that I can stay active.
+3) As a user who struggles with consistency, I want to create short-term and long-term plans so that I stay motivated and maintain a structured routine. 
+4) As a person who has quit in the past, I want reminders so that I am held accountable.
+5) As a new gym goer, I want demonstrational videos so that I can learn how to do workouts properly.
 
 ## Activity Diagrams
 
