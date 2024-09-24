@@ -4,19 +4,39 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Shray Awasti - https://github.com/shrayawasti
+Leanne Lu - https://github.com/leannelu
+Toshi Troyer - https://github.com/toshiHTroyer
+Joseph Hwang - https://github.com/josephnyu
+Samuel Tang - https://github.com/stango1234556
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Declan Skelly, Sam Engleman 
+Pros: 
+1) Easy to plans routes 
+2) Visual maps
+3) Convenience for tickets
+4) Other travel options 
+
+Cons: 
+1) Cluttered Screen
+2) Confusing Icons
+3) Hierarchy of Choices (other options for trips are not readily available)
+4) Lack of offline functionality 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To make a subway app that is less cluttered and easy for any user to understand. 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1) As a traveler I want to be able to quickly plan my trip 
+2) As a tourist I want the best recommended routes 
+3) As a worker I want to be updated quickly about problems with my usual routes 
+4) As a daily user I want to be able to save my normal routes 
+5) As a commuter I want to be able to easily select other options when my train is down
+6) 
 
 ## Activity Diagrams
 
