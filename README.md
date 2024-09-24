@@ -54,4 +54,5 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/eOs69PbYrWNSpPAA1aFNDm/Fitness-Web-Application?node-id=0-1&t=SNMOvZmXeQP8GIAJ-1
+
