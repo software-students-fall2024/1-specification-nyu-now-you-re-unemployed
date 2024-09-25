@@ -16,7 +16,7 @@ Samuel Tang - https://github.com/stango1234556
 
 ## Stakeholders
 
-Evan Wang
+Evan Wang (Student Gym Goer)
 
 Pros: 
 1) Conveniently records progress at all times
