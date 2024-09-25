@@ -32,20 +32,20 @@ Cons:
 
 ## Product Vision Statement
 
-To make a workout app that tracks progress, diet, offers exercise routines, and adapts to the user’s fitness level.
+To make a workout app that tracks progress, offers exercise routines, allows you to customize your exercise routines, and adapts to the user’s fitness level.
 
 ## User Requirements
 
 1) **As a gym goer**, I want to create personalized workouts so that I can get exercises fit for me.
-2) **As a runner**, I want to track my steps so that I can stay active.
-3) **As a user who struggles with consistency**, I want to create short-term and long-term plans so that I stay motivated and maintain a structured routine. 
-4) **As a person who has quit in the past**, I want reminders so that I am held accountable.
+2) **As a runner**, I want to track my steps so that I can make sure I stay active.
+3) **As a user who struggles with consistency**, I want to create long-term weekly plans so that I stay motivated and maintain a structured routine. 
+4) **As an athlete**, I want to customize each of my daily exercises so I can have varied workouts.
 5) **As a new gym goer**, I want demonstrational videos so that I can learn how to do workouts properly.
 6) **As an athlete**, I want to track my calories burned so that I can make sure I hit my fitness goals.
 7) **As a new gym goer**, I want suggested exercises so that I can learn more without feeling overwhelmed.
-8) **As an app user**, I want to monitor my workout progress and history so that I feel more motivated. 
-9) **As a casual gym goer**, I want organized categories of exercises so that I can easily create balanced workouts.
-10) **As an athlete**, I want to time my workouts so that I can follow workout steps correctly.
+8)  **As an app user**, I want to be able to monitor my workout progress and history, including what I did on specific days, so that I feel more motivated. 
+9) **As a new gym goer**, I want to easily create daily plans so that I don’t feel lost when I go to the gym.
+10) **As a person who works out at home**, I want to be able to configure for exercises based on equipment so I can find exercises even if I don't have equipment.
 
 ## Activity Diagrams
 
