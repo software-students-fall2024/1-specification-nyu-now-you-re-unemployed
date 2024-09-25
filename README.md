@@ -19,34 +19,33 @@ Samuel Tang - https://github.com/stango1234556
 Evan Wang
 
 Pros: 
-1) conveniently records progress at all times
-2) tracks numerous types of progress (calories, steps, etc.)
-3) integratabtle with smartwatches or other devices
-4) offers a variety of workouts
+1) Conveniently records progress at all times
+2) Tracks numerous types of progress (calories, steps, etc.)
+3) Integratabtle with smartwatches or other devices
+4) Offers a variety of workouts
 
 Cons: 
-1) limited customization
-2) lack of personalization, may not account for height, body type, etc.
-3) cluttered screen, too much time is put into using the app and takes time away from exercising
-4) features may be unaccessible offline, such as demonstration videos/workout tutorials
+1) Limited customization
+2) Lack of personalization, may not account for height, body type, etc.
+3) Cluttered screen, too much time is put into using the app and takes time away from exercising
+4) Features may be unaccessible offline, such as demonstration videos/workout tutorials
 
 ## Product Vision Statement
 
-To make a workout app that tracks progress, offers exercise routines, and adapts to the user’s fitness level
-if there's no objections, i can push this into the project
+To make a workout app that tracks progress, diet, offers exercise routines, and adapts to the user’s fitness level.
 
 ## User Requirements
 
-1) As a gym goer, I want to create personalized workouts so that I can get exercises fit for me.
-2) As a runner, I want to track my steps so that I can stay active.
-3) As a user who struggles with consistency, I want to create short-term and long-term plans so that I stay motivated and maintain a structured routine. (UML Diagram 1)* 
-4) As a person who has quit in the past, I want reminders so that I am held accountable.
-5) As a new gym goer, I want demonstrational videos so that I can learn how to do workouts properly.
-6) As an athlete, I want to track my calories burned so that I can make sure I hit my fitness goals.
-7) As a new gym goer, I want suggested exercises so that I can learn more without feeling overwhelmed.
-8) As an app user, I want to monitor my workout progress and history so that I feel more motivated. (UML Diagram 2)* 
-9) As a casual gym goer, I want organized categories of exercises so that I can easily create balanced workouts.
-10) As an athlete, I want to time my workouts so that I can follow workout steps correctly.
+1) **As a gym goer**, I want to create personalized workouts so that I can get exercises fit for me.
+2) **As a runner**, I want to track my steps so that I can stay active.
+3) **As a user who struggles with consistency**, I want to create short-term and long-term plans so that I stay motivated and maintain a structured routine. 
+4) **As a person who has quit in the past**, I want reminders so that I am held accountable.
+5) **As a new gym goer**, I want demonstrational videos so that I can learn how to do workouts properly.
+6) **As an athlete**, I want to track my calories burned so that I can make sure I hit my fitness goals.
+7) **As a new gym goer**, I want suggested exercises so that I can learn more without feeling overwhelmed.
+8) **As an app user**, I want to monitor my workout progress and history so that I feel more motivated. 
+9) **As a casual gym goer**, I want organized categories of exercises so that I can easily create balanced workouts.
+10) **As an athlete**, I want to time my workouts so that I can follow workout steps correctly.
 
 ## Activity Diagrams
 
