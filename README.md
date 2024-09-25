@@ -49,7 +49,17 @@ To make a workout app that tracks progress, offers exercise routines, allows you
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+## User Story 1
+**As a starting gym goer, I want to easily create daily plans so that I don’t feel lost when I go to the gym.**
+
+![User Story 1](https://media.discordapp.net/attachments/1286767930704531638/1288370698980425748/0cecc688acca2e691c694e6fb7ceb5ba.png?ex=66f4f037&is=66f39eb7&hm=c3735d45e2323ae040172039b4543ee1cfc786e3a8e9a9682fa683ec3cce8053&=&format=webp&quality=lossless&width=2158&height=1050)
+
+---
+
+## User Story 2
+**As an app user, I want to be able to monitor my workout progress and history, including what I did on specific days, so that I feel more motivated.**
+
+![User Story 2](https://cdn.discordapp.com/attachments/1286767930704531638/1288370533175660646/315f77d815c79f80e29750a551734935.png?ex=66f4f00f&is=66f39e8f&hm=239ef3004cf05b3c8a149fc08cafab9617a2fcce182a95e776aafd1c79ff0752)
 
 ## Clickable Prototype
 
