@@ -4,15 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Shray Awasti - https://github.com/shrayawasti
-
-Leanne Lu - https://github.com/leannelu
-
-Toshi Troyer - https://github.com/toshiHTroyer
-
-Joseph Hwang - https://github.com/josephnyu
-
-Samuel Tang - https://github.com/stango1234556
+- Shray Awasti - [Github Profile](https://github.com/shrayawasti)
+- Leanne Lu - [Github Profile](https://github.com/leannelu)
+- Toshi Troyer - [Github Profile](https://github.com/toshiHTroyer)
+- Joseph Hwang - [Github Profile](https://github.com/josephnyu)
+- Samuel Tang - [Github Profile](https://github.com/stango1234556)
 
 ## Stakeholders
 
@@ -52,15 +48,15 @@ To make a workout app that tracks progress, offers exercise routines, allows you
 ### Diagram 1
 **User story**: As a user who struggles with consistency, I want to create short-term and long-term plans so that I stay motivated and maintain a structured routine.
 
-![Activity Diagram 1](https://media.discordapp.net/attachments/1286767930704531638/1288404551480905811/92b873776bfff74629793b3f6d0d5096.png?ex=66f50fbe&is=66f3be3e&hm=5652a7581b6d0bfdc420774fd9f8386d1bad5e2ee39f33ac9c39051b123f0d76&=&format=webp&quality=lossless&width=1548&height=1108)
+![Activity Diagram 1](https://github.com/user-attachments/assets/54d7e282-0587-4a46-9b3d-04dc88dc7320)
 
 
 ### Diagram 2
 **User story**: As an organized app user, I want to be able to monitor my workout progress and history, including what I did on specific days, so that I feel more motivated.
 
-![Activity Diagram 2](https://cdn.discordapp.com/attachments/1286767930704531638/1288370533175660646/315f77d815c79f80e29750a551734935.png?ex=66f4f00f&is=66f39e8f&hm=239ef3004cf05b3c8a149fc08cafab9617a2fcce182a95e776aafd1c79ff0752)
+![Activity Diagram 2](https://github.com/user-attachments/assets/722a919c-f647-4a49-ad69-c3ab5e16873e)
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/eOs69PbYrWNSpPAA1aFNDm/Fitness-Web-Application?node-id=0-1&t=SNMOvZmXeQP8GIAJ-1
+[Prototype](https://www.figma.com/proto/eOs69PbYrWNSpPAA1aFNDm/Fitness-Web-Application?node-id=0-1&t=SNMOvZmXeQP8GIAJ-1)
 
